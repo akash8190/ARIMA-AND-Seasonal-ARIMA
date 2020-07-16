@@ -14,5 +14,5 @@ The goal of this project is to forecast the number of monthly sales of champagne
 
 
 ## note 
-This is not end to end project in this project we only understand the time series data and how to deal with this type of data using ARIMA and SEASONAL ARIMA
+This is not end to end project in this project we only understand the time series data and how to deal with this type of data using ARIMA and SEASONAL ARIMA.
 
